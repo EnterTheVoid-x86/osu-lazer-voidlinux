@@ -1,1 +1,10 @@
-Simply because  the file is too large, here is a link to download the file: https://drive.google.com/open?id=1l51yyyEcSR7A6vQ9nYRJjudWg3kv0Kre
+THIS PROJECT IS DEAD. IF YOU WANT TO RUN OSU ON VOID LINUX, DOWNLOAD IT FROM LUTRIS.
+------------------------------------------------------------------------------------
++ A simple application for running osu! on Void Linux, because it doesnt fucking use openssl.
+
+Pros: 
++ Works!
++ Runs great!
+
+Cons:
+- You can't sign in.
